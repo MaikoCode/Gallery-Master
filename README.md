@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://maikocode.github.io/Gallery-Master/">
       Demo
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://maikocode.github.io/Gallery-Master/">
       Solution
     </a>
     <span> | </span>
